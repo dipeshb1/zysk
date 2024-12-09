@@ -1,6 +1,6 @@
 import React from 'react';
 import ActionButtons from './ActionButtons';
-import CirclePlay from "../assets/play-circle.png";
+import CirclePlay from "../Assets/play-circle.png";
 import headerContainer from "../assets/HeaderContainer.png"
 import Badge from './Badge';
 
